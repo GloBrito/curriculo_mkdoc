@@ -1,0 +1,6 @@
+site_name: Glorinha
+theme:
+    name: readthedocs
+    highlightjs: true
+nav:
+    - Início: 'index.md'
